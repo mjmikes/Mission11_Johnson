@@ -5,7 +5,7 @@ import DonatePage from './pages/DonatePage';
 import CartPage from './pages/CartPage';
 import { CartProvider } from './context/CartContext';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import AdminBooksPage from './pages/adminBooksPage';
+import AdminBooksPage from './pages/AdminBooksPage';
 
 function App() {
   return (
