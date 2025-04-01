@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/4080e638-1f61-40a4-b8f2-5fbef1ba14a2/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/BookProject-MicahBackend",
+  "appService.deploySubpath": "backend/WaterProject.API/publish"
+}
